@@ -1,8 +1,8 @@
 # DAPUR KILAT — Warung Rush
 
-[![DAPUR KILAT](https://img.shields.io/badge/DAPUR%20KILAT-best--cooking--game--20261125-teal)](https://make.fun/competitions/best-cooking-game-20261125-0137)
-[![Rank](https://img.shields.io/badge/rank-top%2010-blue)](https://make.fun/competitions/best-cooking-game-20261125-0137)
-[![Reward](https://img.shields.io/badge/reward-%2460-gold)](https://make.fun/competitions/best-cooking-game-20261125-0137)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/aresma29/best-cooking-game-20261125/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/aresma29/best-cooking-game-20261125/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 A fast Indonesian warung cooking game. One cook, one rush shift of 180
 seconds, three hearts, and a line of hungry customers.
